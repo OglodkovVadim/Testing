@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oglod\\OneDrive\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u041F\u041E\\\u041B\u0430\u04312\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ECED91-A435-4D57-8D5D-469D2CB05EC3}|WpfApp1\\WpfApp1.csproj|C:\\Users\\oglod\\OneDrive\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u041F\u041E\\\u041B\u0430\u04312\\WpfApp1\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8ECED91-A435-4D57-8D5D-469D2CB05EC3}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ECED91-A435-4D57-8D5D-469D2CB05EC3}|WpfApp1\\WpfApp1.csproj|C:\\Users\\oglod\\OneDrive\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u041F\u041E\\\u041B\u0430\u04312\\WpfApp1\\wpfapp1\\calculatorpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8ECED91-A435-4D57-8D5D-469D2CB05EC3}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\calculatorpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ECED91-A435-4D57-8D5D-469D2CB05EC3}|WpfApp1\\WpfApp1.csproj|C:\\Users\\oglod\\OneDrive\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u041F\u041E\\\u041B\u0430\u04312\\WpfApp1\\wpfapp1\\wpfapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D8ECED91-A435-4D57-8D5D-469D2CB05EC3}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\wpfapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ECED91-A435-4D57-8D5D-469D2CB05EC3}|WpfApp1\\WpfApp1.csproj|C:\\Users\\oglod\\OneDrive\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u041F\u041E\\\u041B\u0430\u04312\\WpfApp1\\wpfapp1\\calculatorpresentertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8ECED91-A435-4D57-8D5D-469D2CB05EC3}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\calculatorpresentertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ECED91-A435-4D57-8D5D-469D2CB05EC3}|WpfApp1\\WpfApp1.csproj|C:\\Users\\oglod\\OneDrive\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u041F\u041E\\\u041B\u0430\u04312\\WpfApp1\\wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D8ECED91-A435-4D57-8D5D-469D2CB05EC3}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ECED91-A435-4D57-8D5D-469D2CB05EC3}|WpfApp1\\WpfApp1.csproj|C:\\Users\\oglod\\OneDrive\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u041F\u041E\\\u041B\u0430\u04312\\WpfApp1\\wpfapp1\\icalculatorpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8ECED91-A435-4D57-8D5D-469D2CB05EC3}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\icalculatorpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ECED91-A435-4D57-8D5D-469D2CB05EC3}|WpfApp1\\WpfApp1.csproj|C:\\Users\\oglod\\OneDrive\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u041F\u041E\\\u041B\u0430\u04312\\WpfApp1\\wpfapp1\\icalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8ECED91-A435-4D57-8D5D-469D2CB05EC3}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\icalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ECED91-A435-4D57-8D5D-469D2CB05EC3}|WpfApp1\\WpfApp1.csproj|C:\\Users\\oglod\\OneDrive\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u041F\u041E\\\u041B\u0430\u04312\\WpfApp1\\wpfapp1\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8ECED91-A435-4D57-8D5D-469D2CB05EC3}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ECED91-A435-4D57-8D5D-469D2CB05EC3}|WpfApp1\\WpfApp1.csproj|C:\\Users\\oglod\\OneDrive\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u041F\u041E\\\u041B\u0430\u04312\\WpfApp1\\wpfapp1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8ECED91-A435-4D57-8D5D-469D2CB05EC3}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ECED91-A435-4D57-8D5D-469D2CB05EC3}|WpfApp1\\WpfApp1.csproj|C:\\Users\\oglod\\OneDrive\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u041F\u041E\\\u041B\u0430\u04312\\WpfApp1\\wpfapp1\\icalculatorview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8ECED91-A435-4D57-8D5D-469D2CB05EC3}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\icalculatorview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ECED91-A435-4D57-8D5D-469D2CB05EC3}|WpfApp1\\WpfApp1.csproj|C:\\Users\\oglod\\OneDrive\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u041F\u041E\\\u041B\u0430\u04312\\WpfApp1\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D8ECED91-A435-4D57-8D5D-469D2CB05EC3}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WpfApp1.csproj",
+              "DocumentMoniker": "C:\\Users\\oglod\\OneDrive\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u041F\u041E\\\u041B\u0430\u04312\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+              "RelativeDocumentMoniker": "WpfApp1\\WpfApp1.csproj",
+              "ToolTip": "C:\\Users\\oglod\\OneDrive\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u041F\u041E\\\u041B\u0430\u04312\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+              "RelativeToolTip": "WpfApp1\\WpfApp1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-16T22:09:01.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\oglod\\OneDrive\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u041F\u041E\\\u041B\u0430\u04312\\WpfApp1\\WpfApp1\\App.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\App.xaml",
+              "ToolTip": "C:\\Users\\oglod\\OneDrive\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u041F\u041E\\\u041B\u0430\u04312\\WpfApp1\\WpfApp1\\App.xaml",
+              "RelativeToolTip": "WpfApp1\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-16T22:07:51.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CalculatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\oglod\\OneDrive\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u041F\u041E\\\u041B\u0430\u04312\\WpfApp1\\WpfApp1\\CalculatorTests.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\CalculatorTests.cs",
+              "ToolTip": "C:\\Users\\oglod\\OneDrive\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u041F\u041E\\\u041B\u0430\u04312\\WpfApp1\\WpfApp1\\CalculatorTests.cs",
+              "RelativeToolTip": "WpfApp1\\CalculatorTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T21:58:17.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculatorPresenterTests.cs",
+              "DocumentMoniker": "C:\\Users\\oglod\\OneDrive\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u041F\u041E\\\u041B\u0430\u04312\\WpfApp1\\WpfApp1\\CalculatorPresenterTests.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\CalculatorPresenterTests.cs",
+              "ToolTip": "C:\\Users\\oglod\\OneDrive\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u041F\u041E\\\u041B\u0430\u04312\\WpfApp1\\WpfApp1\\CalculatorPresenterTests.cs",
+              "RelativeToolTip": "WpfApp1\\CalculatorPresenterTests.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAIwEMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T21:57:46.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\oglod\\OneDrive\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u041F\u041E\\\u041B\u0430\u04312\\WpfApp1\\WpfApp1\\CalculatorPresenter.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\CalculatorPresenter.cs",
+              "ToolTip": "C:\\Users\\oglod\\OneDrive\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u041F\u041E\\\u041B\u0430\u04312\\WpfApp1\\WpfApp1\\CalculatorPresenter.cs",
+              "RelativeToolTip": "WpfApp1\\CalculatorPresenter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T21:55:12.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\oglod\\OneDrive\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u041F\u041E\\\u041B\u0430\u04312\\WpfApp1\\WpfApp1\\Calculator.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Calculator.cs",
+              "ToolTip": "C:\\Users\\oglod\\OneDrive\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u041F\u041E\\\u041B\u0430\u04312\\WpfApp1\\WpfApp1\\Calculator.cs",
+              "RelativeToolTip": "WpfApp1\\Calculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T21:54:53.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICalculatorView.cs",
+              "DocumentMoniker": "C:\\Users\\oglod\\OneDrive\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u041F\u041E\\\u041B\u0430\u04312\\WpfApp1\\WpfApp1\\ICalculatorView.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\ICalculatorView.cs",
+              "ToolTip": "C:\\Users\\oglod\\OneDrive\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u041F\u041E\\\u041B\u0430\u04312\\WpfApp1\\WpfApp1\\ICalculatorView.cs",
+              "RelativeToolTip": "WpfApp1\\ICalculatorView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T21:54:27.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICalculatorPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\oglod\\OneDrive\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u041F\u041E\\\u041B\u0430\u04312\\WpfApp1\\WpfApp1\\ICalculatorPresenter.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\ICalculatorPresenter.cs",
+              "ToolTip": "C:\\Users\\oglod\\OneDrive\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u041F\u041E\\\u041B\u0430\u04312\\WpfApp1\\WpfApp1\\ICalculatorPresenter.cs",
+              "RelativeToolTip": "WpfApp1\\ICalculatorPresenter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T21:54:06.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICalculator.cs",
+              "DocumentMoniker": "C:\\Users\\oglod\\OneDrive\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u041F\u041E\\\u041B\u0430\u04312\\WpfApp1\\WpfApp1\\ICalculator.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\ICalculator.cs",
+              "ToolTip": "C:\\Users\\oglod\\OneDrive\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u041F\u041E\\\u041B\u0430\u04312\\WpfApp1\\WpfApp1\\ICalculator.cs",
+              "RelativeToolTip": "WpfApp1\\ICalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T21:53:29.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\oglod\\OneDrive\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u041F\u041E\\\u041B\u0430\u04312\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\oglod\\OneDrive\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u041F\u041E\\\u041B\u0430\u04312\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-16T21:52:11.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\oglod\\OneDrive\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u041F\u041E\\\u041B\u0430\u04312\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\oglod\\OneDrive\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u041F\u041E\\\u041B\u0430\u04312\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T21:52:10.174Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

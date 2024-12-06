@@ -1,0 +1,7 @@
+C:\Users\yngvar\source\repos\TA\TA\bin\Debug\TA.exe.config
+C:\Users\yngvar\source\repos\TA\TA\bin\Debug\TA.exe
+C:\Users\yngvar\source\repos\TA\TA\bin\Debug\TA.pdb
+C:\Users\yngvar\source\repos\TA\TA\obj\Debug\TA.csprojAssemblyReference.cache
+C:\Users\yngvar\source\repos\TA\TA\obj\Debug\TA.csproj.CoreCompileInputs.cache
+C:\Users\yngvar\source\repos\TA\TA\obj\Debug\TA.exe
+C:\Users\yngvar\source\repos\TA\TA\obj\Debug\TA.pdb

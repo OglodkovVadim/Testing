@@ -1,0 +1,12 @@
+D:\Education\Лабораторная работа №2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.AssemblyReference.cache
+D:\Education\Лабораторная работа №2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Education\Лабораторная работа №2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\App.g.cs
+D:\Education\Лабораторная работа №2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_Content.g.cs
+D:\Education\Лабораторная работа №2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.cache
+D:\Education\Лабораторная работа №2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\oglod\OneDrive\Desktop\Учеба\ТПО\Лаб2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\oglod\OneDrive\Desktop\Учеба\ТПО\Лаб2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\oglod\OneDrive\Desktop\Учеба\ТПО\Лаб2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\oglod\OneDrive\Desktop\Учеба\ТПО\Лаб2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_Content.g.cs
+C:\Users\oglod\OneDrive\Desktop\Учеба\ТПО\Лаб2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\oglod\OneDrive\Desktop\Учеба\ТПО\Лаб2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.lref
